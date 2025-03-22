@@ -44,13 +44,10 @@ This repository covers a wide range of classical machine learning algorithms cat
 ## 📂 Repository Structure
 ```bash
 ├── datasets/                # Sample datasets used for training/testing
-├── models/                  # Implementations of classical ML models
-│   ├── regression/          # Regression algorithms (e.g., Linear Regression)
-│   ├── classification/      # Classification algorithms (e.g., Decision Trees)
-│   ├── clustering/          # Clustering algorithms (e.g., K-Means)
-│   ├── dimensionality_reduction/ # PCA, LDA, etc.
-├── notebooks/               # Jupyter Notebooks for interactive exploration
-├── utils/                   # Helper functions
+├── regression/          # Regression algorithms (e.g., Linear Regression)
+├── classification/      # Classification algorithms (e.g., Decision Trees)
+├── clustering/          # Clustering algorithms (e.g., K-Means)
+├── dimensionality_reduction/ # PCA, LDA, etc.
 └── README.md                # Project documentation
 ```
 
